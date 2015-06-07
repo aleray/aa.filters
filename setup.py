@@ -17,8 +17,8 @@ setup(
     ],
     include_package_data = True,
     install_requires=[
-        'requests==2.0.1',
-        'Pillow==2.2.1',
+        'requests==2.7.0',
+        'Pillow==2.8.2',
         'python-magic>=0.4,<0.5'
     ],
     classifiers=[
